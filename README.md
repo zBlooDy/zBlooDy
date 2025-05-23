@@ -5,8 +5,9 @@
 ## 🚀 Sobre mí
 - 📚 Actualmente estudiando en UTN
 - 💻 Aprendiendo **JavaScript** y **Java**
-<!-- - ⚙️ Trabajo practico de Sistemas Operativos **TP SSOO** (Sistemas Operativos) -->
 - 🌱 Siempre con ganas de aprender más sobre tecnología y programación
+<!-- - ⚙️ Trabajo practico de Sistemas Operativos **TP SSOO** (Sistemas Operativos) -->
+
 
 ## 📊 Estadísticas de GitHub
 
